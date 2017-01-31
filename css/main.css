@@ -1,0 +1,21 @@
+/* Add custom styles here */
+
+.appImage {
+   width: 55px;
+    height: 55px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+}
+.appImage2 {
+   #width: 55px;
+    #height: 55px;
+    -webkit-border-radius: 12px;
+    -moz-border-radius: 12px;
+    border-radius: 12px;
+}
+
+.center {
+    display: block;
+    margin-left: auto;
+    margin-right: auto }
